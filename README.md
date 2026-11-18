@@ -16,7 +16,7 @@ SecretSentry is a lightweight, local-first command-line tool that scans files an
 ## Install from source
 
 ```bash
-git clone https://github.com/OWNER/secretsentry.git
+git clone https://github.com/drishtig06/secretsentry.git
 cd secretsentry
 python3 -m venv .venv
 source .venv/bin/activate
